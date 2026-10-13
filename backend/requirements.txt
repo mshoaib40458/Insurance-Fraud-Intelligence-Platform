@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+python-multipart
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
